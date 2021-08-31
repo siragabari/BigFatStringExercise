@@ -1,0 +1,29 @@
+label {
+  margin-left: 20px;
+  display: inline-block;
+  width: 50px;
+  text-align: left;
+}
+
+input[type="text"] {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  height: 2em;
+  width: 60em;
+  text-align: left;
+}
+
+select {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 94px;
+  height: 2.5em;
+  width: 60.5em;
+}
+
+button {
+  margin-top: 20px;
+  margin-left: 420px;
+  height: 2.5em;
+}
